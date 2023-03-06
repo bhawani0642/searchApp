@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="search_hint">Type for search</string>
+
+
+</resources>
